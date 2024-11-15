@@ -1,3 +1,3 @@
-Step Driver PWM
+Controlador de Tiras Led (1 color)
 
-Potencia controlable en 5 pasos: 0, 25, 50, 75 y 100%
+Contrololador de Potencia seleccionable de 5 pasos: 0 a 100%
